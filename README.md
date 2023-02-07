@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aziz</h1>
-<h3 align="center">Frontend Developer from Medan, Indonesia!</h3>
+<h1 align="center">Hi 👋, I'm Aziz!</h1>
+<h3 align="center">Frontend Developer from Medan, Indonesia.</h3>
 
+<br>
+
+### Overview:
 - 🔭 I’m currently working on HRIS Software, [Nusawork](https://nusawork.com/)
 - 🌱 I’m currently learning **Mobile Development, especially with Flutter and Ionic**
 - 👨‍💻 All of my projects are available at [Here](https://drive.google.com/drive/folders/1g_0C-GiWE5xSEjhiSUID-TquwY2L8dBt?usp=sharing)
