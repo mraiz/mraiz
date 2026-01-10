@@ -5,9 +5,9 @@
 
 ### Overview:
 - 🔭 I’m currently working on HRIS Software, [Nusawork](https://nusawork.com/)
-- 🌱 Currently learning **Mobile Development, especially with Flutter and Ionic**
+- 🌱 Currently learning **Backend Development**
 - 👨‍💻 All of my projects are available at [Here](https://drive.google.com/drive/folders/1g_0C-GiWE5xSEjhiSUID-TquwY2L8dBt?usp=sharing)
-- 💬 I speak **Javascript.**
+- 💬 I speak **JavaScript/TypeScript.**
 - 📫 Email me at **mrzouzho@gmail.com**
 
 
