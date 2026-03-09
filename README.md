@@ -6,7 +6,7 @@
 ### Overview:
 - 🔭 I’m currently working on HRIS Software, [Nusawork](https://nusawork.com/)
 - 🌱 Currently learning **Backend Development**
-- 👨‍💻 All of my projects are available at [Here](https://drive.google.com/drive/folders/1g_0C-GiWE5xSEjhiSUID-TquwY2L8dBt?usp=sharing)
+- 👨‍💻 All of my projects are available at [Here](https://type-zi.vercel.app/)
 - 💬 I speak **JavaScript/TypeScript.**
 - 📫 Email me at **mrzouzho@gmail.com**
 
