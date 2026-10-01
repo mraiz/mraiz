@@ -28,4 +28,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mraiz&icon=2&color=1)](https://visitcount.itsvg.in)
 
+![GitHub Stats for mraiz](https://vercel.app)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
